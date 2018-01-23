@@ -7,8 +7,7 @@
 		<key>Bundles</key>
 		<array>
 			<string>com.apple.springboard</string>
-			<string>com.sdsy.TSDSY</string>
-			<string>com.lanvsblue.test.test</string>
+			<string>com.apple.AppStore</string>
 		</array>
 	</dict>
 </dict>
