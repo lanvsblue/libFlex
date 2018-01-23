@@ -10,7 +10,7 @@ libFlex.dylib can debug other app in your jailbreak device.
 ![libFlex.dylib](https://www.lanvsblue.top/img/in-post/post-SpringBoard-with-FLEX/FLEX-Demo2.PNG)
 
 ## install
-copy [libFlex.dylib](/Package/Library/MobileSubstrate/DynamicLibraries/libFlex.dylib) and [libFlex.plist](/Package/Library/MobileSubstrate/DynamicLibraries/libFlex.dylib) to your DynamicLibraries path, your path may different:
+copy [libFlex.dylib](https://github.com/lanvsblue/libFlex/raw/master/libFlex/Package/Library/MobileSubstrate/DynamicLibraries/libFlex.dylib) and [libFlex.plist](https://github.com/lanvsblue/libFlex/raw/master/libFlex/Package/Library/MobileSubstrate/DynamicLibraries/libFlex.plist) to your DynamicLibraries path, your path may different:
 ```
 /Library/MobileSubstrate/DynamicLibraries/
 ```
